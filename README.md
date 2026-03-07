@@ -384,11 +384,11 @@ foundryup
 Clone the repository:
 
 ```
-git clone <repo-url>
-cd <repo>
+git clone https://github.com/Sidified/DeFi-StableCoin.git
+cd DeFi-StableCoin
 ```
 
-Install dependencies:
+Install dependencies: This project uses OpenZeppelin and Chainlink libraries.
 
 ```
 forge install
