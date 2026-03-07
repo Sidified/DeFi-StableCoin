@@ -77,7 +77,7 @@ This ensures the stablecoin is always **fully backed by collateral**.
                 +----------+-----------+
                            |
                            v
-                +----------------------+
+                +-------------------------+
                 | DecentralizedStableCoin |
                 |        (ERC20)          |
                 +-------------------------+
