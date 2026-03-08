@@ -9,7 +9,6 @@ import {DecentralizedStableCoin} from "../../src/DecentralizedStableCoin.sol";
 import {ERC20Mock} from "@openzeppelin/contracts/mocks/token/ERC20Mock.sol";
 import {MockV3Aggregator} from "../../test/mocks/MockV3Aggregator.sol";
 
-
 contract Handler is Test {
     DSCEngine dscEngine;
     DecentralizedStableCoin dsc;
