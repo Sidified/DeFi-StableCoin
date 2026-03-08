@@ -9,9 +9,6 @@ import {DecentralizedStableCoin} from "../../src/DecentralizedStableCoin.sol";
 import {ERC20Mock} from "@openzeppelin/contracts/mocks/token/ERC20Mock.sol";
 import {MockV3Aggregator} from "../../test/mocks/MockV3Aggregator.sol";
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-////////// Many of the following tests are not performing as patrick told and shown in the video so please look into that////
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 contract Handler is Test {
     DSCEngine dscEngine;
